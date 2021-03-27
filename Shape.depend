@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1608388766 source:c:\users\hp\desktop\shape\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Shape.h"
+	"TriangularShape.h"
+	"RectangularShape.h"
+	"CircularShape.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Point.h"
+
+1608317900 source:c:\users\hp\desktop\shape\shape.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+	"TriangularShape.h"
+	"RectangularShape.h"
+	"CircularShape.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Point.h"
+
+1608304477 c:\users\hp\desktop\shape\shape.h
+	<iostream>
+	<string>
+
+1608340910 source:c:\users\hp\desktop\shape\circle.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"Shape.h"
+	"TriangularShape.h"
+	"RectangularShape.h"
+	"CircularShape.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+
+1608318014 c:\users\hp\desktop\shape\circle.h
+	<iostream>
+	<string>
+
+1608384906 source:c:\users\hp\desktop\shape\triangle.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+	"TriangularShape.h"
+	"RectangularShape.h"
+	"CircularShape.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Point.h"
+
+1608384906 c:\users\hp\desktop\shape\triangle.h
+	<iostream>
+	<string>
+
+1608336342 source:c:\users\hp\desktop\shape\circularshape.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"Shape.h"
+	"TriangularShape.h"
+	"RectangularShape.h"
+	"CircularShape.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Point.h"
+
+1608324522 c:\users\hp\desktop\shape\triangularshape.h
+	<iostream>
+	<string>
+	"Point.h"
+
+1608334189 c:\users\hp\desktop\shape\rectangularshape.h
+	<iostream>
+	<string>
+	"Point.h"
+
+1608323881 c:\users\hp\desktop\shape\circularshape.h
+	<iostream>
+	<string>
+	"Point.h"
+
+1608342116 c:\users\hp\desktop\shape\rectangle.h
+	<iostream>
+	<string>
+
+1608337783 c:\users\hp\desktop\shape\point.h
+	<iostream>
+	<string>
+
+1608374300 source:c:\users\hp\desktop\shape\rectangularshape.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"Shape.h"
+	"TriangularShape.h"
+	"RectangularShape.h"
+	"CircularShape.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Point.h"
+
+1608336236 source:c:\users\hp\desktop\shape\triangularshape.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"Shape.h"
+	"TriangularShape.h"
+	"RectangularShape.h"
+	"CircularShape.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Point.h"
+
+1608322862 source:c:\users\hp\desktop\shape\point.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+	"TriangularShape.h"
+	"RectangularShape.h"
+	"CircularShape.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Point.h"
+
+1608389376 source:c:\users\hp\desktop\shape\rectangle.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+	"TriangularShape.h"
+	"RectangularShape.h"
+	"CircularShape.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"Point.h"
+
